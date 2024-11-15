@@ -2,6 +2,10 @@
 
 Let Claude think comprehensively before responding!
 
+> **a super quick reminder:**
+> thinking claude **is not aimed for benchmarks or huge leaps in math or something**, since they are pre-determined by the base model (new Claude-3.5 Sonnet).
+> i only want to explore how further we could reach with Claude's "deep mindset". that's said, when using it in your daily tasks, you would found Claude's inner monolog (thinking process) very very fun and interesting.
+
 ## Overview
 
 This project consists of two main components:
