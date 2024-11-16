@@ -18,7 +18,7 @@ The thinking protocol instructs Claude to follow a natural, thorough thought pro
 
 ## Browser Extension
 
-The Chrome extension enhances the Claude interface by making the thinking process more manageable:
+The browser extension enhances the Claude interface by making the thinking process more manageable:
 
 ### Features
 - 🔄 Collapsible thinking process sections
@@ -28,10 +28,17 @@ The Chrome extension enhances the Claude interface by making the thinking proces
 
 ### Installation
 
+#### Chrome
 1. Clone this repository
 2. Open Chrome and navigate to `chrome://extensions/`
 3. Enable "Developer mode"
-4. Click "Load unpacked" and select the `extension` folder
+4. Click "Load unpacked" and select the `extension/chrome` folder
+
+#### Firefox
+1. Clone this repository 
+2. Open Firefox and navigate to `about:debugging#/runtime/this-firefox`
+3. Click "Load Temporary Add-on"
+4. Navigate to the repository and select the `extension/firefox/manifest.json` file
 
 ## Usage
 
@@ -69,4 +76,4 @@ MIT License - feel free to use and modify as needed.
 
 ## Acknowledgments
 
-Special thanks to Claude! He build this whole extension with me!
+Special thanks to Claude! We build this whole extension together!
