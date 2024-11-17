@@ -52,7 +52,7 @@ The browser extension enhances the Claude interface by making the thinking proce
 
 ### Applying the Thinking Protocol
 
-1. Copy the contents of `model_instructions.md`
+1. Copy the latest version in `model_instructions` folder
 2. Start a new Project in Claude.ai
 3. Paste the instructions to the Custom Instructions section
 3. Claude will now follow the thinking protocol for all subsequent interactions
