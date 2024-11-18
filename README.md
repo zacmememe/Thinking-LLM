@@ -9,9 +9,7 @@ Let Claude think comprehensively before responding!
 ## Demo:
 
 
-
-https://github.com/user-attachments/assets/c3532383-e3fa-4d06-b9e3-89160fff8986
-
+https://github.com/user-attachments/assets/88ff0c75-c51b-42b9-a042-00d47053795a
 
 
 ## Overview
