@@ -35,6 +35,9 @@ The browser extension enhances the Claude interface by making the thinking proce
 ### Installation
 
 #### Chrome
+
+> Just install the extension [here](https://chromewebstore.google.com/detail/thinking-claude/ncjafpbbndpggfhfgjngkcimeaciahpo)!
+
 1. Clone this repository
 2. Open Chrome and navigate to `chrome://extensions/`
 3. Enable "Developer mode"
